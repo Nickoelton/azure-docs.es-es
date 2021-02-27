@@ -21,7 +21,7 @@ ms.locfileid: "98222350"
 # <a name="query-performance-insight-for-azure-sql-database"></a>Información de rendimiento de consultas para Azure SQL Database
 [!INCLUDE[appliesto-sqldb](../includes/appliesto-sqldb.md)]
 
-Información de rendimiento de consultas proporciona un análisis inteligente de las consultas para bases de datos únicas y agrupadas. Ayuda a identificar las consultas que consumen más recursos y las que más tardan ej ejecutarse en la carga de trabajo. Esto le ayudará a encontrar consultas que optimizan el rendimiento general de la carga de trabajo y que usan de forma eficaz el recurso por el que se paga. Información de rendimiento de consultas ayuda a dedicar menos tiempo a solucionar problemas de rendimiento de bases de datos, ya que proporciona:
+Información de rendimiento de consultas proporciona un análisis inteligente de las consultas para bases de datos únicas y agrupadas. Ayuda a identificar las consultas que consumen más recursos y las que más tardan en ejecutarse en la carga de trabajo. Esto le ayudará a encontrar consultas que optimizan el rendimiento general de la carga de trabajo y que usan de forma eficaz el recurso por el que se paga. Información de rendimiento de consultas ayuda a dedicar menos tiempo a solucionar problemas de rendimiento de bases de datos, ya que proporciona:
 
 * Información más detallada sobre el consumo de recursos (DTU) de las bases de datos
 * Detalles sobre las principales consultas de una base de datos por CPU, duración y recuento de ejecuciones (las posibles candidatas a un ajuste para mejorar el rendimiento)
